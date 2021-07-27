@@ -1,0 +1,15 @@
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\bin\Debug\MyMaterialSkin.dll
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\bin\Debug\MyMaterialSkin.pdb
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\MyMaterialSkin.Properties.Resources.resources
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\WindowSkin.csproj.GenerateResource.cache
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\WindowSkin.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\MyMaterialSkin.dll
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\MyMaterialSkin.pdb
+C:\Users\reyna\source\repos\WindowSkin\WindowSkin\obj\Debug\WindowSkin.csproj.AssemblyReference.cache
+C:\Users\reyna\source\repos\WindowSkin\WindowSkin\obj\Debug\MyMaterialSkin.Properties.Resources.resources
+C:\Users\reyna\source\repos\WindowSkin\WindowSkin\obj\Debug\WindowSkin.csproj.GenerateResource.cache
+C:\Users\reyna\source\repos\WindowSkin\WindowSkin\obj\Debug\WindowSkin.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\WindowSkin\WindowSkin\obj\Debug\MyMaterialSkin.dll
+C:\Users\reyna\source\repos\WindowSkin\WindowSkin\obj\Debug\MyMaterialSkin.pdb
+C:\Users\reyna\source\repos\WindowSkin\WindowSkin\bin\Debug\MyMaterialSkin.dll
+C:\Users\reyna\source\repos\WindowSkin\WindowSkin\bin\Debug\MyMaterialSkin.pdb

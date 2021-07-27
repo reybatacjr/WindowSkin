@@ -1,0 +1,8 @@
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\bin\Debug\MyMaterialSkin.dll
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\bin\Debug\MyMaterialSkin.pdb
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\MyMaterialSkin.csproj.AssemblyReference.cache
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\MyMaterialSkin.csproj.CoreCompileInputs.cache
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\MyMaterialSkin.dll
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\MyMaterialSkin.pdb
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\MyMaterialSkin.Properties.Resources.resources
+C:\Users\reyna\source\repos\MyMaterialSkin\MyMaterialSkin\obj\Debug\MyMaterialSkin.csproj.GenerateResource.cache

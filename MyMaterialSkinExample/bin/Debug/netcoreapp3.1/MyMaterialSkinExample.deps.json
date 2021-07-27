@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MyMaterialSkinExample/1.0.0": {
+        "dependencies": {
+          "WindowSkin": "1.0.0"
+        },
+        "runtime": {
+          "MyMaterialSkinExample.dll": {}
+        }
+      },
+      "WindowSkin/1.0.0": {
+        "runtime": {
+          "MyMaterialSkin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyMaterialSkinExample/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WindowSkin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
